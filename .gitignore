@@ -1,0 +1,7 @@
+# まずは全部無視
+*
+
+# ただし main.py だけは管理対象にする
+!kamiyawar_answers.db
+!streamlit.py
+!.gitignore
